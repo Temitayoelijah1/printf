@@ -1,1 +1,2 @@
 readme
+functions updated
